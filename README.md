@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 - Python
 - C, Cpp
 - Git
-- Base of web 
+- Base of web
+
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kix300&theme=tokyonight)
 
 
