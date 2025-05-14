@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-😎 I am Kix, a artificial intelligence developer actualy working for a company in internship.  <br><br>🕷 Im also interesting in web development, reverse engineering and cyber security.<br><br>💪 My futur project/goal is to be in "Ecole 42".<br><br>🤯 Currently learning C language.
+😎 I am Kix, a artificial intelligence developer and studend at 42.  <br><br>🕷 Im also did fullstack project. <br><br>🤯 Currently learning C, C++, Nix, Nextjs, postgSQL, Python.
 
 
 # 💻 Tech Stack:
