@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 # 💻 Tech Stack:
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff)](#) [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#) [![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](#)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff)](#) [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#) [![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](#)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kix300&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kix300&theme=tokyonight&hide_border=false)<br/>
