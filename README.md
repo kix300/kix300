@@ -19,14 +19,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=kix300&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kix300&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kix300&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
 ### 🔥 Current Focus
 - 🔭 Working on **42 projects** and **fullstack applications**  
 - 🌱 Learning **low-level programming** and **modern web tech**  
