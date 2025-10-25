@@ -46,7 +46,7 @@
 
 | Project | Skills | Technologies |
 |---------|--------|--------------|
-| [`transcendence`](https://github.com/kix300) | Fullstack Web Dev | Next.js, PostgreSQL |
-| [`ft_irc`](https://github.com/kix300) | Network Programming | C++, Sockets |
+| [`transcendence`](https://github.com/kix300/42_FT-Transcendence) | Fullstack Web Dev | Next.js, PostgreSQL |
+| [`Web_serv`](https://github.com/kix300/42_WebServ) | Sever Web | C++, Sockets |
 | [`minishell`](https://github.com/kix300) | Systems Programming | C, Unix |
-| [`Inception`](https://github.com/kix300) | DevOps | Docker, System Admin |
+| [`Inception`](https://github.com/kix300/42_Inception) | DevOps | Docker, System Admin |
