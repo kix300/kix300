@@ -12,8 +12,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Cargo](https://img.shields.io/badge/Cargo-000000?logo=cargo&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=orange)
+![Cargo](https://img.shields.io/badge/Cargo-000000?logo=cargo&logoColor=orange)
 
 #### **Web & Fullstack**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
